@@ -10,4 +10,10 @@ class FirstjenkinsApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void test1()
+    {
+        assert true;
+    }
+
 }
